@@ -1,0 +1,17 @@
+.btn{
+   font-size:24px ; 
+   font-weight:700 ;
+   background-color:yellow;
+   padding:10px 20px 10px 20px ;
+}
+.btn:hover{
+   background-color: orange; 
+}
+.btn:focus{
+    background-color: orange;
+}
+.text{
+    font-size:18px ;
+    text-transform: capitalize;
+    font-style: italic;
+}
