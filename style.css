@@ -3,6 +3,7 @@
    font-weight:700 ;
    background-color:yellow;
    padding:10px 20px 10px 20px ;
+   margin:40px ;
 }
 .btn:hover{
    background-color: orange; 
@@ -12,6 +13,6 @@
 }
 .text{
     font-size:18px ;
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-style: italic;
 }
